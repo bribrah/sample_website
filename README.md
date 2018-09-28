@@ -1,12 +1,6 @@
-This is a markdown test
-=======================
-I dont know what I am doing lol 
--------------------------------
+This is my first website build
+==============================
+The website can be found at https://bribrah.github.io/sample_website/
+---------------------------------------------------------------------
 
-This is all a test and hopefuly it works
-
-So far it seems to be going okay
-
-> What the fuck is a block quote anyways
-> guess Ill have to find out
-> roflcopter
+Was built by following the tutorial at https://www.learnenough.com/html-tutorial
